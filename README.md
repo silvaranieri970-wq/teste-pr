@@ -1,2 +1,2 @@
-# teste-pr
-App de gerenciamento de tarefas e bem-estar para acadêmicos Projeto da faculdade - Engenharia de Software Tecnologias: Flutter, Dart, Firebase
+## Teste de Pull Request 
+Primeiro teste feito por Ranieri
